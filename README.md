@@ -1,5 +1,6 @@
 # FIXXER ✞ PRO
 ### Professional-Grade Photography Workflow Automation
+By [OakLens.art](https://oaklens.art/) · code the tool, shoot the world
 
 ![Version](https://img.shields.io/badge/version-1.2.0-red.svg)
 ![Python](https://img.shields.io/badge/python-3.10--3.12-blue.svg)
